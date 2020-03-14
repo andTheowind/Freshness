@@ -78,7 +78,14 @@ nav .form-control:active, nav .form-control:focus {
 }
 .navbar-nav li { 
 	margin-left: 25px;
- }
+}
+.navbar-light .navbar-nav .nav-link {
+	color: #999999;
+	font-weight: 600;
+}
+.navbar-nav .home {
+	color: #3bafbe !important;
+}
 header nav {
 	margin: 0 15px;
 }
@@ -131,6 +138,13 @@ h1 {
 .carousel-item {
 	padding-left: 3px;
 	padding-bottom: 3px;
+}
+main .btn {
+	padding: 0 12px 6px 12px;
+}
+.symbol-btn {
+	font-size: 1.3rem;
+	font-weight: 300;
 }
 .carousel-indicators li {
 	background-color: #3bafbe;
