@@ -414,9 +414,6 @@ footer fieldset p {
 	.slider {
 		flex-direction: column;
 	}
-	.slider div {
-		margin: 0 auto;
-	}
 	.monitor {
 		padding-bottom: 35px;
 	}

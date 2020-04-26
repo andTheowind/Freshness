@@ -24,7 +24,7 @@
 
 @font-face {
 	font-family: 'Georgia';
-	src: url('G../fonts/Georgia/eorgia-Bold.eot');
+	src: url('../fonts/Georgia/eorgia-Bold.eot');
 	src: local('../fonts/Georgia/Georgia Bold'), local('../fonts/Georgia/Georgia-Bold'),
 		url('../fonts/Georgia/Georgia-Bold.eot?#iefix') format('embedded-opentype'),
 		url('../fonts/Georgia/Georgia-Bold.woff') format('woff'),
