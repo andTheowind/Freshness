@@ -401,6 +401,9 @@ footer fieldset p {
 	}
 }
 @media screen and (max-width: 768px) {
+	.monitor {
+		margin: 0 auto;
+	}
 	.col-md-8 {
 		width: 66.666667%;
 	}	
