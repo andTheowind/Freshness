@@ -454,4 +454,7 @@ footer fieldset p {
 	.btn {
 		padding: .375rem .35rem;
 	}
+	.modal-body {
+		flex-direction: column;
+	}
 }
